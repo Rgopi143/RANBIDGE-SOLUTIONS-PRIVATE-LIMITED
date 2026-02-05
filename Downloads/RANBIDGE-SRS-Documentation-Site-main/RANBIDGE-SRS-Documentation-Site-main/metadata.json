@@ -1,0 +1,5 @@
+{
+  "name": "Ranbidge SRS Portal",
+  "description": "A comprehensive Software Requirements Specification generator and portal for Ranbidge Solutions, allowing clients to define, refine, and generate professional project documentation.",
+  "requestFramePermissions": []
+}
